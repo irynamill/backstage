@@ -8,4 +8,5 @@ metadata:
     prometheus.io/scrape: 'true'
 spec:
   type: service
+  lifecycle: production
   owner: team-a
